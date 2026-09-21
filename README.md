@@ -1,4 +1,5 @@
 [![Node CI](https://github.com/blind2484/hexlet-ci-app/actions/workflows/main.yml/badge.svg)](https://github.com/blind2484/hexlet-ci-app/actions/workflows/main.yml)
+[![lesson](https://github.com/blind2484/hexlet-ci-app/actions/workflows/lesson.yml/badge.svg)](https://github.com/blind2484/hexlet-ci-app/actions/workflows/lesson.yml)
 
 
 # Example app for CI Hexlet course
